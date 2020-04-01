@@ -68,8 +68,9 @@ button{
   margin: 0;
 }
 
-@media(max-width:1250){
-  .slide{background-size: contain;
+@media(max-width:1250px){
+  .slide{
+    background-size: contain;
   
   }
 }

@@ -107,11 +107,17 @@ img{
 }
 
 @media(max-width:730px){
-  .noticiasTop{
+  .noticiasTop {
     flex-direction: column;
   }
-
   .noticiasTop > h2{
     margin-bottom: 15px;
   }
+  .selects{
+    display: flex;
+    flex-direction: column;
+  }
+
+
 }
+

@@ -61,6 +61,7 @@ nav img{
     margin-top: 20px;
   }
   ul  li{
-    padding: 0;
+    padding-right: 5px;
+    font-size: 15px;
   }
 }
