@@ -1,6 +1,6 @@
 # Desafio Front-end infoglobo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9ee2b44e-22ca-4e0f-8576-1240bb0f649b/deploy-status)](https://app.netlify.com/sites/adoring-noyce-0a60ed/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ee2b44e-22ca-4e0f-8576-1240bb0f649b/deploy-status)](https://app.netlify.com/sites/daniel-infoglobo/deploys)
 
 Desafio proposto pela Codezone para a vaga de Front-End
 
