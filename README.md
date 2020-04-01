@@ -17,4 +17,4 @@ npm
 - Instale as dependências usando o comando ```npm install``` 
 - Para rodar o projeto localmente, use o comando ```npm start``` e veja-o em http://localhost:3000
 
-# [Demo](daniel-infoglobo.netlify.com/)
+# [Demo](https://daniel-infoglobo.netlify.com/)
